@@ -1,0 +1,5 @@
+.env
+Makefile
+.out
+uploads
+coverage.out
